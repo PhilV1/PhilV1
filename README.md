@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @PhilV1
+- 👀 I’m interested in Webdevelopment
+- 🌱 I’m currently learning HTML, CSS and Javascript
